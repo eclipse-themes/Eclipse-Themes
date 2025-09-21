@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Eclipse Midnight",
+      "background": "#0f0e15",
+      "foreground": "#e2e2e2",
+      "cursorColor": "#bb9af7",
+      "selectionBackground": "#0a0910",
+      "black": "#0a0910",
+      "red": "#bb9af7",
+      "green": "#7aa2f7",
+      "yellow": "#bb9af7",
+      "blue": "#7aa2f7",
+      "purple": "#bb9af7",
+      "cyan": "#7aa2f7",
+      "white": "#e2e2e2",
+      "brightBlack": "#a8a8c3",
+      "brightRed": "#bb9af7",
+      "brightGreen": "#7aa2f7",
+      "brightYellow": "#bb9af7",
+      "brightBlue": "#7aa2f7",
+      "brightPurple": "#bb9af7",
+      "brightCyan": "#7aa2f7",
+      "brightWhite": "#ffffff"
+    }
+  ]
+  
