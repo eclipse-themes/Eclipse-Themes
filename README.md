@@ -1,4 +1,9 @@
-# 🌑 Eclipse Theme
+<div align="center">
+  <h1>
+    <img src="Assets/Eclipse.png" alt="Eclipse Theme Logo" height="40" style="vertical-align: middle; margin-right: 15px;"/>
+    Eclipse Theme
+  </h1>
+</div>
 
 A beautiful dark theme inspired by lunar eclipses, designed for developers who appreciate a sleek, modern interface with excellent contrast and readability.
 
@@ -19,6 +24,15 @@ A beautiful dark theme inspired by lunar eclipses, designed for developers who a
 <div align="center">
   <img src="Assets/EclipseEditor.png" alt="Eclipse Theme Editor View" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); max-width: 100%;"/>
   <p><em>Eclipse Theme in Action</em></p>
+</div>
+</details>
+
+<details>
+<summary>📦 Extension Page</summary>
+
+<div align="center">
+  <img src="Assets/EclipseExtensionPage.jpg" alt="Eclipse Theme Extension Page" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); max-width: 100%;"/>
+  <p><em>Eclipse Theme Extension Page</em></p>
 </div>
 </details>
 
