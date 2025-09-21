@@ -12,17 +12,17 @@ Eclipse Theme uses a carefully selected color palette designed to reduce eye str
 
 | Color | Name | Hex | Usage |
 |-------|------|-----|-------|
-| ![#0f0e15](https://via.placeholder.com/24/0f0e15/0f0e15?text=+) | Eclipse Dark | `#0f0e15` | Primary background |
-| ![#0a0910](https://via.placeholder.com/24/0a0910/0a0910?text=+) | Eclipse Midnight | `#0a0910` | Secondary background |
-| ![#e2e2e2](https://via.placeholder.com/24/e2e2e2/e2e2e2?text=+) | Moonlight | `#e2e2e2` | Primary text |
-| ![#a8a8c3](https://via.placeholder.com/24/a8a8c3/a8a8c3?text=+) | Starlight | `#a8a8c3` | Secondary text |
+| <div style="background-color: #0f0e15; width: 24px; height: 24px; border-radius: 4px;"></div> | Eclipse Dark | `#0f0e15` | Primary background |
+| <div style="background-color: #0a0910; width: 24px; height: 24px; border-radius: 4px;"></div> | Eclipse Midnight | `#0a0910` | Secondary background |
+| <div style="background-color: #e2e2e2; width: 24px; height: 24px; border-radius: 4px;"></div> | Moonlight | `#e2e2e2` | Primary text |
+| <div style="background-color: #a8a8c3; width: 24px; height: 24px; border-radius: 4px;"></div> | Starlight | `#a8a8c3` | Secondary text |
 
 #### Accent Colors
 
 | Color | Name | Hex | Usage |
 |-------|------|-----|-------|
-| ![#bb9af7](https://via.placeholder.com/24/bb9af7/bb9af7?text=+) | Cosmic Purple | `#bb9af7` | Primary accent |
-| ![#7aa2f7](https://via.placeholder.com/24/7aa2f7/7aa2f7?text=+) | Nebula Blue | `#7aa2f7` | Secondary accent |
+| <div style="background-color: #bb9af7; width: 24px; height: 24px; border-radius: 4px;"></div> | Cosmic Purple | `#bb9af7` | Primary accent |
+| <div style="background-color: #7aa2f7; width: 24px; height: 24px; border-radius: 4px;"></div> | Nebula Blue | `#7aa2f7` | Secondary accent |
 
 ### Usage Guidelines
 
