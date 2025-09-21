@@ -78,7 +78,7 @@ For web projects, you can use these CSS variables:
 
 ### VS Code Theme
 - [Install from Marketplace](https://marketplace.visualstudio.com/items?itemName=eclipse-theme.eclipse-theme)
-- [GitHub Repository](https://github.com/eclipse-theme/eclipse-theme-midnight)
+- [GitHub Repository](./apps/vscode)
 
 ## 📝 License
 
