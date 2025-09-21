@@ -12,17 +12,17 @@ Eclipse Theme uses a carefully selected color palette designed to reduce eye str
 
 | Color | Name | Hex | Usage |
 |-------|------|-----|-------|
-| <span style="display: inline-block; width: 24px; height: 24px; background-color: #0f0e15; border-radius: 4px; vertical-align: middle; margin-right: 8px;"></span> Eclipse Dark | `#0f0e15` | Primary background |
-| <span style="display: inline-block; width: 24px; height: 24px; background-color: #0a0910; border-radius: 4px; vertical-align: middle; margin-right: 8px;"></span> Eclipse Midnight | `#0a0910` | Secondary background |
-| <span style="display: inline-block; width: 24px; height: 24px; background-color: #e2e2e2; border-radius: 4px; vertical-align: middle; margin-right: 8px; border: 1px solid #ccc;"></span> Moonlight | `#e2e2e2` | Primary text |
-| <span style="display: inline-block; width: 24px; height: 24px; background-color: #a8a8c3; border-radius: 4px; vertical-align: middle; margin-right: 8px;"></span> Starlight | `#a8a8c3` | Secondary text |
+| ![#0f0e15](https://placehold.co/24x24/0f0e15/0f0e15.png) | Eclipse Dark | `#0f0e15` | Primary background |
+| ![#0a0910](https://placehold.co/24x24/0a0910/0a0910.png) | Eclipse Midnight | `#0a0910` | Secondary background |
+| ![#e2e2e2](https://placehold.co/24x24/e2e2e2/e2e2e2.png) | Moonlight | `#e2e2e2` | Primary text |
+| ![#a8a8c3](https://placehold.co/24x24/a8a8c3/a8a8c3.png) | Starlight | `#a8a8c3` | Secondary text |
 
 #### Accent Colors
 
 | Color | Name | Hex | Usage |
 |-------|------|-----|-------|
-| <span style="display: inline-block; width: 24px; height: 24px; background-color: #bb9af7; border-radius: 4px; vertical-align: middle; margin-right: 8px;"></span> Cosmic Purple | `#bb9af7` | Primary accent |
-| <span style="display: inline-block; width: 24px; height: 24px; background-color: #7aa2f7; border-radius: 4px; vertical-align: middle; margin-right: 8px;"></span> Nebula Blue | `#7aa2f7` | Secondary accent |
+| ![#bb9af7](https://placehold.co/24x24/bb9af7/bb9af7.png) | Cosmic Purple | `#bb9af7` | Primary accent |
+| ![#7aa2f7](https://placehold.co/24x24/7aa2f7/7aa2f7.png) | Nebula Blue | `#7aa2f7` | Secondary accent |
 
 ### Usage Guidelines
 
