@@ -2,7 +2,6 @@
 node_modules/
 
 # Keep themes directory
-!themes/
 
 # Build outputs
 *.vsix
