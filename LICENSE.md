@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Fira Code Font
+- License: SIL Open Font License 1.1
+- Copyright (c) 2014, The Fira Code Project Authors
+- Download & info: [Fira Code GitHub](https://github.com/tonsky/FiraCode)
+
+## Material Icon Theme
+- License: MIT License (as distributed via VS Code Marketplace)
+- Author: Philipp Kief
+- Install & info: [Material Icon Theme Marketplace](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
