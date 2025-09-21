@@ -1,8 +1,6 @@
 # Dependency directories
 node_modules/
 
-# Keep themes directory
-
 # Build outputs
 *.vsix
 out/
