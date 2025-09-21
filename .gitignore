@@ -39,6 +39,3 @@ themes/eclipse-color-theme.json
 themes/eclipse-dawn-color-theme.json
 /themes
 
-themes/
-!themes/eclipse-color-theme.json
-!themes/eclipse-dawn-color-theme.json
