@@ -5,7 +5,7 @@
   </h1>
 </div>
 
-A beautiful dark theme inspired by lunar eclipses, designed for developers who appreciate a sleek, modern interface with excellent contrast and readability.
+A beautiful dark theme inspired by lunar eclipses, designed for people who appreciate a sleek, modern interface with excellent contrast and readability.
 
 ## 🌟 Theme Previews
 
