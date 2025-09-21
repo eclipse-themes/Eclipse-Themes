@@ -36,3 +36,4 @@ themes/
 *.sw?
 themes/eclipse-color-theme.json
 themes/eclipse-dawn-color-theme.json
+/themes
