@@ -9,15 +9,6 @@ A beautiful dark theme inspired by lunar eclipses, designed for developers who a
 
 ## 🌟 Theme Previews
 
-<details>
-<summary>🖼️ Logo Preview</summary>
-
-<div align="center">
-  <img src="Assets/Eclipse.png" alt="Eclipse Theme Logo" width="300"/>
-  <p><em>Eclipse Theme Logo</em></p>
-</div>
-</details>
-
 <details open>
 <summary>💻 Editor Preview</summary>
 
