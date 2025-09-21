@@ -2,8 +2,8 @@
 
 A beautiful dark theme inspired by lunar eclipses, designed to reduce eye strain during long coding sessions.
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/Eclipse-Theme.eclipse-theme-midnight.svg?color=blue&style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=Eclipse-Theme.eclipse-theme-midnight)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/Eclipse-Theme.eclipse-theme-midnight.svg?color=blue)](https://marketplace.visualstudio.com/items?itemName=Eclipse-Theme.eclipse-theme-midnight)
+[![VS Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Eclipse-Theme.eclipse-theme-midnight?label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=Eclipse-Theme.eclipse-theme-midnight)
+[![VS Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/Eclipse-Theme.eclipse-theme-midnight?label=Installs)](https://marketplace.visualstudio.com/items?itemName=Eclipse-Theme.eclipse-theme-midnight)
 
 ## 🚀 Installation
 
