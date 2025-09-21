@@ -19,6 +19,9 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
+# Theme files
+themes/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
