@@ -12,17 +12,17 @@ Eclipse Theme uses a carefully selected color palette designed to reduce eye str
 
 | Color | Name | Hex | Usage |
 |-------|------|-----|-------|
-| <div style="background-color: #0f0e15; width: 24px; height: 24px; border-radius: 4px;"></div> | Eclipse Dark | `#0f0e15` | Primary background |
-| <div style="background-color: #0a0910; width: 24px; height: 24px; border-radius: 4px;"></div> | Eclipse Midnight | `#0a0910` | Secondary background |
-| <div style="background-color: #e2e2e2; width: 24px; height: 24px; border-radius: 4px;"></div> | Moonlight | `#e2e2e2` | Primary text |
-| <div style="background-color: #a8a8c3; width: 24px; height: 24px; border-radius: 4px;"></div> | Starlight | `#a8a8c3` | Secondary text |
+| <span style="display: inline-block; width: 24px; height: 24px; background-color: #0f0e15; border-radius: 4px; vertical-align: middle; margin-right: 8px;"></span> Eclipse Dark | `#0f0e15` | Primary background |
+| <span style="display: inline-block; width: 24px; height: 24px; background-color: #0a0910; border-radius: 4px; vertical-align: middle; margin-right: 8px;"></span> Eclipse Midnight | `#0a0910` | Secondary background |
+| <span style="display: inline-block; width: 24px; height: 24px; background-color: #e2e2e2; border-radius: 4px; vertical-align: middle; margin-right: 8px; border: 1px solid #ccc;"></span> Moonlight | `#e2e2e2` | Primary text |
+| <span style="display: inline-block; width: 24px; height: 24px; background-color: #a8a8c3; border-radius: 4px; vertical-align: middle; margin-right: 8px;"></span> Starlight | `#a8a8c3` | Secondary text |
 
 #### Accent Colors
 
 | Color | Name | Hex | Usage |
 |-------|------|-----|-------|
-| <div style="background-color: #bb9af7; width: 24px; height: 24px; border-radius: 4px;"></div> | Cosmic Purple | `#bb9af7` | Primary accent |
-| <div style="background-color: #7aa2f7; width: 24px; height: 24px; border-radius: 4px;"></div> | Nebula Blue | `#7aa2f7` | Secondary accent |
+| <span style="display: inline-block; width: 24px; height: 24px; background-color: #bb9af7; border-radius: 4px; vertical-align: middle; margin-right: 8px;"></span> Cosmic Purple | `#bb9af7` | Primary accent |
+| <span style="display: inline-block; width: 24px; height: 24px; background-color: #7aa2f7; border-radius: 4px; vertical-align: middle; margin-right: 8px;"></span> Nebula Blue | `#7aa2f7` | Secondary accent |
 
 ### Usage Guidelines
 
