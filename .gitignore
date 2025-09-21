@@ -22,6 +22,7 @@ yarn-error.log*
 # Theme files
 themes/
 
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -37,3 +38,7 @@ themes/
 themes/eclipse-color-theme.json
 themes/eclipse-dawn-color-theme.json
 /themes
+
+themes/
+!themes/eclipse-color-theme.json
+!themes/eclipse-dawn-color-theme.json
