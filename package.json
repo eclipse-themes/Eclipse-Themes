@@ -2,12 +2,12 @@
   "name": "eclipse-theme-midnight",
   "displayName": "Eclipse Theme Midnight",
   "description": "A beautiful dark theme with a midnight variant, inspired by lunar eclipses",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "publisher": "Eclipse-Theme",
   "icon": "Assets/Eclipse.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eclipse-theme/eclipse-theme-midnight"
+    "url": "https://github.com/eclipse-themes/Eclipse-Themes"
   },
   "engines": {
     "vscode": "^1.60.0"
