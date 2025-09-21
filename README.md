@@ -51,25 +51,6 @@ Eclipse Theme offers carefully selected color palettes designed to reduce eye st
 </details>
 
 <details>
-<summary>🌞 Eclipse Light Theme (Coming Soon)</summary>
-
-#### Core Colors
-
-| Color | Name | Hex | Usage |
-|-------|------|-----|-------|
-| ![#ffffff](https://placehold.co/24x24/ffffff/ffffff.png) | Pure White | `#ffffff` | Primary background |
-| ![#f5f5f7](https://placehold.co/24x24/f5f5f7/f5f5f7.png) | Light Gray | `#f5f5f7` | Secondary background |
-| ![#1a1a1a](https://placehold.co/24x24/1a1a1a/1a1a1a.png) | Dark Text | `#1a1a1a` | Primary text |
-| ![#4a4a4f](https://placehold.co/24x24/4a4a4f/4a4a4f.png) | Secondary Text | `#4a4a4f` | Secondary text |
-
-#### Accent Colors
-
-| Color | Name | Hex | Usage |
-|-------|------|-----|-------|
-| ![#8a4fff](https://placehold.co/24x24/8a4fff/8a4fff.png) | Royal Purple | `#8a4fff` | Primary accent |
-| ![#007aff](https://placehold.co/24x24/007aff/007aff.png) | Bright Blue | `#007aff` | Secondary accent |
-
-</details>
 
 ### Usage Guidelines
 
