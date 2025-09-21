@@ -9,7 +9,7 @@ A beautiful dark theme inspired by lunar eclipses, designed for developers who a
 
 ## 🌟 Theme Previews
 
-<details open>
+<details>
 <summary>💻 Editor Preview</summary>
 
 <div align="center">
