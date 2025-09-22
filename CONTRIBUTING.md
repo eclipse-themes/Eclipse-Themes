@@ -193,3 +193,141 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Document any special requirements
 - Include helpful screenshots
 - Keep the README updated
+
+# Contributing to Eclipse Themes
+
+Thank you for your interest in contributing to Eclipse Themes! This document provides guidelines for contributing to the Eclipse Midnight theme.
+
+## 🎨 Color Palette Reference
+
+### Core Colors
+- **Midnight Base**: `#1a1825` (Primary background)
+- **Deep Space**: `#151320` (Secondary background)
+- **Cosmic Void**: `#212030` (Tertiary background)
+- **Nebula**: `#2d2b40` (Hover/Inactive states)
+- **Eclipse Shadow**: `#3a384a` (Active/Selected states)
+
+### Text Colors
+- **Starlight**: `#f0f0f7` (Primary text)
+- **Moonlight**: `#c0c0d0` (Secondary text)
+- **Cosmic Dust**: `#7d7b95` (Muted/Disabled text)
+- **Event Horizon**: `#252337` (Borders and dividers)
+- **Lunar Surface**: `#353447` (Input borders)
+
+### Accent Colors
+- **Cosmic Violet**: `#9a86fd` (Primary brand color)
+- **Stellar Blue**: `#8ab2ff` (Secondary accent)
+- **Nebula Purple**: `#c5a7ff` (Tertiary accent)
+- **Quantum Mint**: `#8effd9` (Success/Positive actions)
+- **Solar Flare**: `#ffa874` (Warning/Attention)
+- **Nova Red**: `#ff7d95` (Error/Destructive actions)
+- **Lunar Gold**: `#e2c792` (Highlight/Important info)
+
+## 🚀 Getting Started
+
+1. **Fork** the repository on GitHub
+2. **Clone** your fork locally
+   ```bash
+   git clone https://github.com/your-username/Eclipse-Themes.git
+   cd Eclipse-Themes
+   ```
+3. **Install** dependencies
+   ```bash
+   npm install
+   ```
+4. **Create a branch** for your changes
+   ```bash
+   git checkout -b fix/your-fix-name
+   # or
+   git checkout -b feature/your-feature-name
+   ```
+
+## 🔧 Development Workflow
+
+1. Make your changes in your feature branch
+2. Test your changes in VS Code's Extension Development Host
+3. Run the linter
+   ```bash
+   npm run lint
+   ```
+4. Commit your changes with a descriptive message following [Conventional Commits](https://www.conventionalcommits.org/):
+   ```bash
+   git commit -m "feat: add new syntax highlighting for TypeScript"
+   # or
+   git commit -m "fix: correct contrast in sidebar"
+   ```
+5. Push your changes to your fork
+   ```bash
+   git push origin your-branch-name
+   ```
+
+## 📝 Submitting Changes
+
+1. Open a **Pull Request** against the `main` branch
+2. Fill out the PR template with details about your changes
+3. Include before/after screenshots for visual changes
+4. Ensure all tests pass and there are no merge conflicts
+5. Request a review from one of the maintainers
+
+## 🐛 Reporting Issues
+
+When reporting issues, please include:
+
+- **Description**: Clear explanation of the issue
+- **Steps to Reproduce**: Step-by-step instructions to reproduce
+- **Expected vs Actual**: What you expected to happen vs what actually happened
+- **Screenshots**: Visual examples if applicable
+- **Environment**:
+  - OS: [e.g., Windows 11, macOS 14, Ubuntu 22.04]
+  - VS Code Version: [e.g., 1.85.0]
+  - Theme Version: [e.g., 0.3.1]
+
+## 💡 Feature Requests
+
+We welcome feature requests! Please include:
+- A clear description of the feature
+- The problem it solves
+- Any relevant examples or references
+- Screenshots or mockups if applicable
+
+## 🎨 Design Guidelines
+
+- Maintain a minimum contrast ratio of 4.5:1 for text
+- Use the defined color palette consistently
+- Follow VS Code's theming guidelines
+- Keep the theme feeling cohesive and professional
+- Test changes in both light and dark UIs
+
+## 📜 Code Style
+
+- Use 2 spaces for indentation in JSON files
+- Sort color keys alphabetically in theme files
+- Keep lines under 100 characters
+- Add comments for non-obvious color usage
+- Follow existing naming conventions
+
+## 📝 Commit Message Format
+
+We follow [Conventional Commits](https://www.conventionalcommits.org/):
+
+```
+<type>[optional scope]: <description>
+
+[optional body]
+
+[optional footer(s)]
+```
+
+**Types**:
+- `feat`: New feature
+- `fix`: Bug fix
+- `docs`: Documentation changes
+- `style`: Code style changes (formatting, etc.)
+- `refactor`: Code changes that neither fix bugs nor add features
+- `perf`: Performance improvements
+- `test`: Adding or modifying tests
+- `chore`: Changes to the build process or auxiliary tools
+
+## 📄 License
+
+By contributing to Eclipse Themes, you agree that your contributions will be licensed under the [MIT License](LICENSE).

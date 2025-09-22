@@ -2,7 +2,7 @@
   "name": "eclipse-theme-midnight",
   "displayName": "Eclipse Theme Midnight",
   "description": "A beautiful dark theme with a midnight variant, inspired by lunar eclipses",
-  "version": "0.2.9",
+  "version": "0.3.1",
   "publisher": "Eclipse-Theme",
   "icon": "Assets/Eclipse.png",
   "repository": {
@@ -15,11 +15,6 @@
   "categories": ["Themes"],
   "contributes": {
     "themes": [
-      {
-        "label": "Eclipse Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/eclipse-color-theme.json"
-      },
       {
         "label": "Eclipse Midnight",
         "uiTheme": "vs-dark",

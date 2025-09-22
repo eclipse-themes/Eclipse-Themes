@@ -30,73 +30,117 @@ A beautiful dark theme inspired by lunar eclipses, designed for people who appre
 
 ## 🎨 Brand Guidelines
 
-### Color Palette
+## 🎨 Color Palette
 
-Eclipse Theme offers carefully selected color palettes designed to reduce eye strain during long coding sessions while maintaining visual appeal.
+### Core Colors
 
-<details open>
-<summary>🌑 Eclipse Dark Theme</summary>
+#### Backgrounds
+| Color | Name | Hex | Purpose |
+|-------|------|-----|---------|
+| ![](https://placehold.co/24x24/1a1825/1a1825.png) | Midnight Base | `#1a1825` | Primary background |
+| ![](https://placehold.co/24x24/151320/151320.png) | Deep Space | `#151320` | Secondary background |
+| ![](https://placehold.co/24x24/212030/212030.png) | Cosmic Void | `#212030` | Tertiary background |
+| ![](https://placehold.co/24x24/2d2b40/2d2b40.png) | Nebula | `#2d2b40` | Hover/Inactive states |
+| ![](https://placehold.co/24x24/3a384a/3a384a.png) | Eclipse Shadow | `#3a384a` | Active/Selected states |
 
-#### Core Colors
+#### Text & UI Elements
+| Color | Name | Hex | Purpose |
+|-------|------|-----|---------|
+| ![](https://placehold.co/24x24/f0f0f7/f0f0f7.png) | Starlight | `#f0f0f7` | Primary text |
+| ![](https://placehold.co/24x24/c0c0d0/c0c0d0.png) | Moonlight | `#c0c0d0` | Secondary text |
+| ![](https://placehold.co/24x24/7d7b95/7d7b95.png) | Cosmic Dust | `#7d7b95` | Muted/Disabled text |
+| ![](https://placehold.co/24x24/252337/252337.png) | Event Horizon | `#252337` | Borders and dividers |
+| ![](https://placehold.co/24x24/353447/353447.png) | Lunar Surface | `#353447` | Input borders |
 
-| Color | Name | Hex | Usage |
-|-------|------|-----|-------|
-| ![#1e1e2e](https://placehold.co/24x24/1e1e2e/1e1e2e.png) | Dark Background | `#1e1e2e` | Primary background |
-| ![#181825](https://placehold.co/24x24/181825/181825.png) | Dark Surface | `#181825` | Secondary background |
-| ![#cdd6f4](https://placehold.co/24x24/cdd6f4/cdd6f4.png) | Text | `#cdd6f4` | Primary text |
-| ![#a6adc8](https://placehold.co/24x24/a6adc8/a6adc8.png) | Subtext | `#a6adc8` | Secondary text |
+### Accent Colors
 
-#### Accent Colors
+#### Primary Accents
+| Color | Name | Hex | Purpose |
+|-------|------|-----|---------|
+| ![](https://placehold.co/24x24/9a86fd/9a86fd.png) | Cosmic Violet | `#9a86fd` | Primary brand color |
+| ![](https://placehold.co/24x24/8ab2ff/8ab2ff.png) | Stellar Blue | `#8ab2ff` | Secondary accent |
+| ![](https://placehold.co/24x24/c5a7ff/c5a7ff.png) | Nebula Purple | `#c5a7ff` | Tertiary accent |
+| ![](https://placehold.co/24x24/8effd9/8effd9.png) | Quantum Mint | `#8effd9` | Success/Positive actions |
+| ![](https://placehold.co/24x24/ffa874/ffa874.png) | Solar Flare | `#ffa874` | Warning/Attention |
+| ![](https://placehold.co/24x24/ff7d95/ff7d95.png) | Nova Red | `#ff7d95` | Error/Destructive actions |
+| ![](https://placehold.co/24x24/e2c792/e2c792.png) | Lunar Gold | `#e2c792` | Highlight/Important info |
 
-| Color | Name | Hex | Usage |
-|-------|------|-----|-------|
-| ![#cba6f7](https://placehold.co/24x24/cba6f7/cba6f7.png) | Lavender | `#cba6f7` | Primary accent |
-| ![#89b4fa](https://placehold.co/24x24/89b4fa/89b4fa.png) | Blue | `#89b4fa` | Secondary accent |
+### Extended Color System
 
-</details>
+#### Standard Colors
+| Color | Name | Hex |
+|-------|------|-----|
+| ![](https://placehold.co/24x24/1a1825/1a1825.png) | Midnight Base | `#1a1825` |
+| ![](https://placehold.co/24x24/ff7d95/ff7d95.png) | Nova Red | `#ff7d95` |
+| ![](https://placehold.co/24x24/8effd9/8effd9.png) | Quantum Mint | `#8effd9` |
+| ![](https://placehold.co/24x24/ffa874/ffa874.png) | Solar Flare | `#ffa874` |
+| ![](https://placehold.co/24x24/8ab2ff/8ab2ff.png) | Stellar Blue | `#8ab2ff` |
+| ![](https://placehold.co/24x24/c5a7ff/c5a7ff.png) | Nebula Purple | `#c5a7ff` |
+| ![](https://placehold.co/24x24/8dd9ff/8dd9ff.png) | Cosmic Cyan | `#8dd9ff` |
+| ![](https://placehold.co/24x24/f0f0f7/f0f0f7.png) | Starlight | `#f0f0f7` |
 
-<details>
-<summary>🌙 Eclipse Midnight Theme</summary>
+#### Bright Variants
+| Color | Name | Hex |
+|-------|------|-----|
+| ![](https://placehold.co/24x24/7d7b95/7d7b95.png) | Cosmic Dust | `#7d7b95` |
+| ![](https://placehold.co/24x24/ff95a9/ff95a9.png) | Bright Nova | `#ff95a9` |
+| ![](https://placehold.co/24x24/a1ffe4/a1ffe4.png) | Bright Quantum | `#a1ffe4` |
+| ![](https://placehold.co/24x24/ffb88f/ffb88f.png) | Bright Solar | `#ffb88f` |
+| ![](https://placehold.co/24x24/a5b8ff/a5b8ff.png) | Bright Stellar | `#a5b8ff` |
+| ![](https://placehold.co/24x24/d2bfff/d2bfff.png) | Bright Nebula | `#d2bfff` |
+| ![](https://placehold.co/24x24/a5dfff/a5dfff.png) | Bright Cosmic | `#a5dfff` |
+| ![](https://placehold.co/24x24/ffffff/ffffff.png) | Pure White | `#ffffff` |
 
-#### Core Colors
+## 🚀 Installation
 
-| Color | Name | Hex | Usage |
-|-------|------|-----|-------|
-| ![#0f0e15](https://placehold.co/24x24/0f0e15/0f0e15.png) | Midnight Background | `#0f0e15` | Primary background |
-| ![#0a0910](https://placehold.co/24x24/0a0910/0a0910.png) | Deep Space | `#0a0910` | Secondary background |
-| ![#e2e2e2](https://placehold.co/24x24/e2e2e2/e2e2e2.png) | Moonlight | `#e2e2e2` | Primary text |
-| ![#a8a8c3](https://placehold.co/24x24/a8a8c3/a8a8c3.png) | Starlight | `#a8a8c3` | Secondary text |
+1. Open the **Extensions** view in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`)
+2. Search for "Eclipse Theme - Midnight"
+3. Click **Install**
+4. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`)
+5. Select **Preferences: Color Theme** and choose "Eclipse Midnight"
 
-#### Accent Colors
+## 🛠️ Customization
 
-| Color | Name | Hex | Usage |
-|-------|------|-----|-------|
-| ![#bb9af7](https://placehold.co/24x24/bb9af7/bb9af7.png) | Cosmic Purple | `#bb9af7` | Primary accent |
-| ![#7aa2f7](https://placehold.co/24x24/7aa2f7/7aa2f7.png) | Nebula Blue | `#7aa2f7` | Secondary accent |
+You can customize the theme by adding these settings to your `settings.json`:
 
-</details>
-
-<details>
-
-### Usage Guidelines
-
-- **Backgrounds**: Use Eclipse Dark (`#0f0e15`) as the primary background and Eclipse Midnight (`#0a0910`) for contrast elements
-- **Text**: Use Moonlight (`#e2e2e2`) for primary text and Starlight (`#a8a8c3`) for secondary/disabled text
-- **Accents**: Use Cosmic Purple (`#bb9af7`) for primary actions and Nebula Blue (`#7aa2f7`) for secondary actions
-- **Contrast**: Ensure text has a minimum contrast ratio of 4.5:1 against background colors
-
-### CSS Variables
-
-For web projects, you can use these CSS variables:
-
-```css
-:root {
-  --eclipse-dark: #0f0e15;
-  --eclipse-midnight: #0a0910;
-  --moonlight: #e2e2e2;
-  --starlight: #a8a8c3;
-  --cosmic-purple: #bb9af7;
-  --nebula-blue: #7aa2f7;
+```json
+{
+  "workbench.colorCustomizations": {
+    "[Eclipse Midnight]": {
+      "editor.background": "#1a1825",
+      "sideBar.background": "#151320"
+    }
+  },
+  "editor.tokenColorCustomizations": {
+    "[Eclipse Midnight]": {
+      "textMateRules": [
+        {
+          "scope": "comment",
+          "settings": {
+            "fontStyle": "italic"
+          }
+        }
+      ]
+    }
+  },
+  "editor.tokenColorCustomizations": {
+    "[Eclipse Midnight]": {
+      "textMateRules": [
+        {
+          "scope": "keyword",
+          "settings": {
+            "foreground": "#c5a7ff"
+          }
+        },
+        {
+          "scope": "variable",
+          "settings": {
+            "foreground": "#8effd9"
+          }
+        }
+      ]
+    }
+  }
 }
 ```
 
