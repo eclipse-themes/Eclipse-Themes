@@ -1,18 +1,18 @@
-# Contributing to Eclipse Themes
+# Contributing to Eclipse Midnight
 
-Thank you for your interest in contributing to Eclipse Themes! This guide will help you create and submit themes for various applications.
+Thank you for your interest in contributing to Eclipse Midnight! This guide will help you create and submit themes for various applications.
 
 ## 🎨 Creating a New Theme
 
 ### 1. Create a New Repository
 ```bash
 # Repository Naming
-Eclipse-Theme-{app-name}
+eclipse-midnight-{app-name}
 
 # Examples:
-Eclipse-Theme-vscode
-Eclipse-Theme-winterm
-Eclipse-Theme-intellij
+eclipse-midnight-vscode
+eclipse-midnight-winterm
+eclipse-midnight-intellij
 ```
 
 ### 2. Required Files
@@ -174,7 +174,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 1. Fork this repository
 2. Create a new branch: `git checkout -b my-theme`
 3. Add your theme files
-4. Commit your changes: `git commit -m 'feat: add Eclipse Theme for [App Name]'`
+4. Commit your changes: `git commit -m 'feat: add Eclipse Midnight theme for [App Name]'`
 5. Push to the branch: `git push origin my-theme`
 6. Open a Pull Request
 7. Create a new [Theme Submission](https://github.com/eclipse-themes/Eclipse-Themes/issues/new?template=theme-submission.yml) issue
@@ -194,9 +194,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Include helpful screenshots
 - Keep the README updated
 
-# Contributing to Eclipse Themes
+# Contributing to Eclipse Midnight
 
-Thank you for your interest in contributing to Eclipse Themes! This document provides guidelines for contributing to the Eclipse Midnight theme.
+Thank you for your interest in contributing to Eclipse Midnight! This document provides guidelines for contributing to the theme.
 
 ## 🎨 Color Palette Reference
 
@@ -330,4 +330,4 @@ We follow [Conventional Commits](https://www.conventionalcommits.org/):
 
 ## 📄 License
 
-By contributing to Eclipse Themes, you agree that your contributions will be licensed under the [MIT License](LICENSE).
+By contributing to Eclipse Midnight, you agree that your contributions will be licensed under the [MIT License](LICENSE).

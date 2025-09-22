@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
-    <img src="Assets/Eclipse.png" alt="Eclipse Theme Logo" height="40" style="vertical-align: middle; margin-right: 15px;"/>
-    Eclipse Theme
+    <img src="Assets/Eclipse.png" alt="Eclipse Midnight Logo" height="40" style="vertical-align: middle; margin-right: 15px;"/>
+    Eclipse Midnight
   </h1>
 </div>
 
@@ -13,8 +13,8 @@ A beautiful dark theme inspired by lunar eclipses, designed for people who appre
 <summary>💻 Editor Preview</summary>
 
 <div align="center">
-  <img src="Assets/EclipseEditor.png" alt="Eclipse Theme Editor View" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); max-width: 100%;"/>
-  <p><em>Eclipse Theme in Action</em></p>
+  <img src="Assets/EclipseEditor.png" alt="Eclipse Midnight Editor View" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); max-width: 100%;"/>
+  <p><em>Eclipse Midnight in Action</em></p>
 </div>
 </details>
 
@@ -22,8 +22,8 @@ A beautiful dark theme inspired by lunar eclipses, designed for people who appre
 <summary>📦 Extension Page</summary>
 
 <div align="center">
-  <img src="Assets/EclipseExtensionPage.jpg" alt="Eclipse Theme Extension Page" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); max-width: 100%;"/>
-  <p><em>Eclipse Theme Extension Page</em></p>
+  <img src="Assets/EclipseExtensionPage.jpg" alt="Eclipse Midnight Extension Page" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); max-width: 100%;"/>
+  <p><em>Eclipse Midnight Extension Page</em></p>
 </div>
 </details>
 
@@ -152,7 +152,7 @@ You can customize the theme by adding these settings to your `settings.json`:
 
 ## 📝 License
 
-Eclipse Theme is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+Eclipse Midnight is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 
 ## 📄 License

@@ -1,4 +1,4 @@
-# 🌑 Eclipse Theme for VS Code
+# 🌑 Eclipse Midnight for VS Code
 
 A beautiful dark theme inspired by lunar eclipses, designed to reduce eye strain during long coding sessions.
 
