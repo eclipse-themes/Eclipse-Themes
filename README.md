@@ -32,60 +32,10 @@ A beautiful dark theme inspired by lunar eclipses, designed for people who appre
 
 For detailed color specifications, naming conventions, and usage guidelines, please refer to our comprehensive [Brand Guidelines](BRAND_GUIDELINES.md). This includes the complete color palette, terminal colors, and implementation details for maintaining visual consistency across all Eclipse Midnight themes.
 
-## 🚀 Installation
-
-1. Open the **Extensions** view in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`)
-2. Search for "Eclipse Theme - Midnight"
-3. Click **Install**
-4. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`)
-5. Select **Preferences: Color Theme** and choose "Eclipse Midnight"
-
-## 🛠️ Customization
-
-You can customize the theme by adding these settings to your `settings.json`:
-
-```json
-{
-  "workbench.colorCustomizations": {
-    "[Eclipse Midnight]": {
-      "editor.background": "#1a1825",
-      "sideBar.background": "#151320"
-    }
-  },
-  "editor.tokenColorCustomizations": {
-    "[Eclipse Midnight]": {
-      "textMateRules": [
-        {
-          "scope": "comment",
-          "settings": {
-            "fontStyle": "italic"
-          }
-        }
-      ]
-    }
-  },
-  "editor.tokenColorCustomizations": {
-    "[Eclipse Midnight]": {
-      "textMateRules": [
-        {
-          "scope": "keyword",
-          "settings": {
-            "foreground": "#c5a7ff"
-          }
-        },
-        {
-          "scope": "variable",
-          "settings": {
-            "foreground": "#8effd9"
-          }
-        }
-      ]
-    }
-  }
-}
-```
 
 ## 📦 Applications
+
+All Eclipse Midnight themes are organized in the `apps` directory, with each application having its own subdirectory.
 
 ### VS Code Theme
 - [Install from Marketplace](https://marketplace.visualstudio.com/items?itemName=Eclipse-Theme.eclipse-theme-midnight)

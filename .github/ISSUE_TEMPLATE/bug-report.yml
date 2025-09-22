@@ -1,0 +1,87 @@
+name: Bug Report
+description: Report an issue with an Eclipse Midnight theme
+title: 'fix: [Short description]'
+labels: ['bug']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping us improve Eclipse Midnight themes! Before submitting your bug report, please check the following:
+        - [ ] I've searched for similar issues and couldn't find a duplicate
+        - [ ] I've reviewed the [troubleshooting guide](LINK_TO_TROUBLESHOOTING) (if available)
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A clear and concise description of the bug
+    validations:
+      required: true
+  - type: dropdown
+    id: theme
+    attributes:
+      label: Affected Theme
+      description: Which theme is affected by this bug?
+      options:
+        - VS Code
+        - IntelliJ
+        - Windows Terminal
+        - Other (please specify in additional context)
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Theme Version
+      description: The version of the theme you're using
+      placeholder: e.g., 1.0.0 or commit hash
+  - type: input
+    id: os
+    attributes:
+      label: Operating System
+      description: Your operating system and version
+      placeholder: e.g., Windows 11, macOS 14.0, Ubuntu 22.04
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: Clear steps to reproduce the behavior
+      placeholder: |
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What you expected to happen
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      description: What actually happened
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: If applicable, add screenshots to help explain your problem
+  - type: textarea
+    id: logs
+    attributes:
+      label: Console Output/Logs
+      description: Any relevant console output or logs (wrap in code blocks)
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Add any other context about the problem here
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+      options:
+        - label: I agree to follow the Code of Conduct
+          required: true
