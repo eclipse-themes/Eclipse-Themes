@@ -2,6 +2,18 @@
 
 Thank you for your interest in contributing to Eclipse Midnight! This guide will help you create and submit themes for various applications.
 
+## 🎨 Brand & Color Guidelines
+
+Before you start, please review our comprehensive [Brand Guidelines](BRAND_GUIDELINES.md) for detailed information about:
+- Color palette and naming conventions
+- Light and dark theme specifications
+- Terminal color schemes
+- UI component styling
+- Syntax highlighting guidelines
+- Accessibility standards
+
+All themes should follow these guidelines to maintain visual consistency across the Eclipse Midnight ecosystem.
+
 ## 🎨 Creating a New Theme
 
 ### 1. Create a New Repository
@@ -34,103 +46,21 @@ Eclipse-Theme-{app-name}/
 
 ## 🎨 Color Palette
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; margin: 2rem 0;">
+## Color Scheme Reference
 
-### 🌙 Eclipse Dark
+For a complete reference to the Eclipse Midnight color scheme, including both dark and light variants, please see the [Brand Guidelines](BRAND_GUIDELINES.md). The guidelines provide detailed information about:
 
-#### Core Colors
-| Role | Hex | Usage |
-|------|-----|-------|
-| Background | `#1e1e2e` | Main background |
-| Foreground | `#cdd6f4` | Primary text |
-| Accent | `#cba6f7` | Primary UI elements |
-| Highlight | `#89b4fa` | Secondary UI elements |
-| Muted | `#6c7086` | Comments, line numbers |
-| Selection | `#45475a` | Selected text |
+- Core color palette for both dark and light themes
+- Syntax highlighting colors
+- Terminal color schemes
+- UI component styling
+- Accessibility considerations
 
-#### Syntax
-| Element | Hex |
-|---------|-----|
-| Keywords | `#cba6f7` |
-| Functions | `#89b4fa` |
-| Strings | `#a6e3a1` |
-| Numbers | `#fab387` |
-| Types | `#f9e2af` |
-| Variables | `#cdd6f4` |
-| Tags | `#f38ba8` |
-| Attributes | `#f9e2af` |
-
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; margin: 2rem 0;">
-
-### ☀️ Eclipse Dawn
-
-#### Core Colors
-| Role | Hex | Usage |
-|------|-----|-------|
-| Background | `#eff1f5` | Main background |
-| Foreground | `#4c4f69` | Primary text |
-| Accent | `#8839ef` | Primary UI elements |
-| Highlight | `#1e66f5` | Secondary UI elements |
-| Muted | `#9ca0b0` | Comments, line numbers |
-| Selection | `#ccd0da` | Selected text |
-
-#### Syntax
-| Element | Hex |
-|---------|-----|
-| Keywords | `#8839ef` |
-| Functions | `#1e66f5` |
-| Strings | `#40a02b` |
-| Numbers | `#fe640b` |
-| Types | `#df8e1d` |
-| Variables | `#4c4f69` |
-| Tags | `#d20f39` |
-| Attributes | `#df8e1d` |
-
-</div>
+All new themes should follow these guidelines to maintain consistency with the Eclipse Midnight design system.
 
 ### Terminal Colors
 
-#### Eclipse Dark Terminal
-| Color | Hex |
-|-------|-----|
-| Black | `#45475a` |
-| Red | `#f38ba8` |
-| Green | `#a6e3a1` |
-| Yellow | `#f9e2af` |
-| Blue | `#89b4fa` |
-| Magenta | `#f5c2e7` |
-| Cyan | `#94e2d5` |
-| White | `#bac2de` |
-| Bright Black | `#585b70` |
-| Bright Red | `#f38ba8` |
-| Bright Green | `#a6e3a1` |
-| Bright Yellow | `#f9e2af` |
-| Bright Blue | `#89b4fa` |
-| Bright Magenta | `#f5c2e7` |
-| Bright Cyan | `#94e2d5` |
-| Bright White | `#a6adc8` |
-
-#### Eclipse Dawn Terminal
-| Color | Hex |
-|-------|-----|
-| Black | `#dce0e8` |
-| Red | `#d20f39` |
-| Green | `#40a02b` |
-| Yellow | `#df8e1d` |
-| Blue | `#1e66f5` |
-| Magenta | `#ea76cb` |
-| Cyan | `#179299` |
-| White | `#4c4f69` |
-| Bright Black | `#9ca0b0` |
-| Bright Red | `#d20f39` |
-| Bright Green | `#40a02b` |
-| Bright Yellow | `#df8e1d` |
-| Bright Blue | `#1e66f5` |
-| Bright Magenta | `#ea76cb` |
-| Bright Cyan | `#179299` |
-| Bright White | `#4c4f69` |
+For terminal color schemes and specifications, please refer to the [Terminal Colors](BRAND_GUIDELINES.md#terminal-colors) section in our Brand Guidelines.
 
 ## 📝 README Requirements
 Your theme's README.md should include:

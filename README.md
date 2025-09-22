@@ -28,68 +28,9 @@ A beautiful dark theme inspired by lunar eclipses, designed for people who appre
 </details>
 
 
-## 🎨 Brand Guidelines
+## 🎨 Brand & Color Guidelines
 
-## 🎨 Color Palette
-
-### Core Colors
-
-#### Backgrounds
-| Color | Name | Hex | Purpose |
-|-------|------|-----|---------|
-| ![](https://placehold.co/24x24/1a1825/1a1825.png) | Midnight Base | `#1a1825` | Primary background |
-| ![](https://placehold.co/24x24/151320/151320.png) | Deep Space | `#151320` | Secondary background |
-| ![](https://placehold.co/24x24/212030/212030.png) | Cosmic Void | `#212030` | Tertiary background |
-| ![](https://placehold.co/24x24/2d2b40/2d2b40.png) | Nebula | `#2d2b40` | Hover/Inactive states |
-| ![](https://placehold.co/24x24/3a384a/3a384a.png) | Eclipse Shadow | `#3a384a` | Active/Selected states |
-
-#### Text & UI Elements
-| Color | Name | Hex | Purpose |
-|-------|------|-----|---------|
-| ![](https://placehold.co/24x24/f0f0f7/f0f0f7.png) | Starlight | `#f0f0f7` | Primary text |
-| ![](https://placehold.co/24x24/c0c0d0/c0c0d0.png) | Moonlight | `#c0c0d0` | Secondary text |
-| ![](https://placehold.co/24x24/7d7b95/7d7b95.png) | Cosmic Dust | `#7d7b95` | Muted/Disabled text |
-| ![](https://placehold.co/24x24/252337/252337.png) | Event Horizon | `#252337` | Borders and dividers |
-| ![](https://placehold.co/24x24/353447/353447.png) | Lunar Surface | `#353447` | Input borders |
-
-### Accent Colors
-
-#### Primary Accents
-| Color | Name | Hex | Purpose |
-|-------|------|-----|---------|
-| ![](https://placehold.co/24x24/9a86fd/9a86fd.png) | Cosmic Violet | `#9a86fd` | Primary brand color |
-| ![](https://placehold.co/24x24/8ab2ff/8ab2ff.png) | Stellar Blue | `#8ab2ff` | Secondary accent |
-| ![](https://placehold.co/24x24/c5a7ff/c5a7ff.png) | Nebula Purple | `#c5a7ff` | Tertiary accent |
-| ![](https://placehold.co/24x24/8effd9/8effd9.png) | Quantum Mint | `#8effd9` | Success/Positive actions |
-| ![](https://placehold.co/24x24/ffa874/ffa874.png) | Solar Flare | `#ffa874` | Warning/Attention |
-| ![](https://placehold.co/24x24/ff7d95/ff7d95.png) | Nova Red | `#ff7d95` | Error/Destructive actions |
-| ![](https://placehold.co/24x24/e2c792/e2c792.png) | Lunar Gold | `#e2c792` | Highlight/Important info |
-
-### Extended Color System
-
-#### Standard Colors
-| Color | Name | Hex |
-|-------|------|-----|
-| ![](https://placehold.co/24x24/1a1825/1a1825.png) | Midnight Base | `#1a1825` |
-| ![](https://placehold.co/24x24/ff7d95/ff7d95.png) | Nova Red | `#ff7d95` |
-| ![](https://placehold.co/24x24/8effd9/8effd9.png) | Quantum Mint | `#8effd9` |
-| ![](https://placehold.co/24x24/ffa874/ffa874.png) | Solar Flare | `#ffa874` |
-| ![](https://placehold.co/24x24/8ab2ff/8ab2ff.png) | Stellar Blue | `#8ab2ff` |
-| ![](https://placehold.co/24x24/c5a7ff/c5a7ff.png) | Nebula Purple | `#c5a7ff` |
-| ![](https://placehold.co/24x24/8dd9ff/8dd9ff.png) | Cosmic Cyan | `#8dd9ff` |
-| ![](https://placehold.co/24x24/f0f0f7/f0f0f7.png) | Starlight | `#f0f0f7` |
-
-#### Bright Variants
-| Color | Name | Hex |
-|-------|------|-----|
-| ![](https://placehold.co/24x24/7d7b95/7d7b95.png) | Cosmic Dust | `#7d7b95` |
-| ![](https://placehold.co/24x24/ff95a9/ff95a9.png) | Bright Nova | `#ff95a9` |
-| ![](https://placehold.co/24x24/a1ffe4/a1ffe4.png) | Bright Quantum | `#a1ffe4` |
-| ![](https://placehold.co/24x24/ffb88f/ffb88f.png) | Bright Solar | `#ffb88f` |
-| ![](https://placehold.co/24x24/a5b8ff/a5b8ff.png) | Bright Stellar | `#a5b8ff` |
-| ![](https://placehold.co/24x24/d2bfff/d2bfff.png) | Bright Nebula | `#d2bfff` |
-| ![](https://placehold.co/24x24/a5dfff/a5dfff.png) | Bright Cosmic | `#a5dfff` |
-| ![](https://placehold.co/24x24/ffffff/ffffff.png) | Pure White | `#ffffff` |
+For detailed color specifications, naming conventions, and usage guidelines, please refer to our comprehensive [Brand Guidelines](BRAND_GUIDELINES.md). This includes the complete color palette, terminal colors, and implementation details for maintaining visual consistency across all Eclipse Midnight themes.
 
 ## 🚀 Installation
 
