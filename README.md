@@ -35,7 +35,7 @@ For detailed color specifications, naming conventions, and usage guidelines, ple
 
 ## 📦 Applications
 
-All Eclipse Midnight themes are organized in the `apps` directory, with each application having its own subdirectory.
+All Eclipse Midnight themes are organized in the [`apps`](https://github.com/eclipse-themes/Eclipse-Themes/tree/main/apps) directory, with each application having its own subdirectory.
 
 
 ## 📝 License
