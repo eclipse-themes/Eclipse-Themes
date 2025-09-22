@@ -37,15 +37,18 @@ For detailed color specifications, naming conventions, and usage guidelines, ple
 
 All Eclipse Midnight themes are organized in the `apps` directory, with each application having its own subdirectory.
 
-### VS Code Theme
-- [Install from Marketplace](https://marketplace.visualstudio.com/items?itemName=Eclipse-Theme.eclipse-theme-midnight)
-- [GitHub Repository](https://github.com/eclipse-themes/Eclipse-Themes/tree/main/apps/vscode)
 
 ## 📝 License
 
-Eclipse Midnight is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+Eclipse Midnight is licensed under the MIT License. See [LICENSE](LICENSE.md) for more information.
 
 
-## 📄 License
+## Fira Code Font
+- License: SIL Open Font License 1.1
+- Copyright (c) 2014, The Fira Code Project Authors
+- Download & info: [Fira Code GitHub](https://github.com/tonsky/FiraCode)
 
-This project is licensed under the [MIT License](LICENSE).
+## Material Icon Theme
+- License: MIT License (as distributed via VS Code Marketplace)
+- Author: Philipp Kief
+- Install & info: [Material Icon Theme Marketplace](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
