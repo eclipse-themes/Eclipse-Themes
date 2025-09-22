@@ -1,0 +1,40 @@
+name: "🎨 New Theme Submission"
+description: Submit your custom Eclipse theme for review
+labels: ["theme-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # New Theme Submission
+        
+        Before submitting, please ensure:
+        1. You've created a repository named `Eclipse-Theme-{app-name}`
+        2. Your theme follows our color guidelines
+        3. You've included screenshots
+
+  - type: input
+    id: theme-name
+    attributes:
+      label: "Theme Name"
+      description: "What's the name of your theme?"
+      placeholder: "Eclipse Midnight"
+    validations:
+      required: true
+
+  - type: input
+    id: repository-url
+    attributes:
+      label: "GitHub Repository URL"
+      description: "Link to your Eclipse-Theme-{app-name} repository"
+      placeholder: "https://github.com/yourusername/Eclipse-Theme-vscode"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Theme Description"
+      description: "Tell us about your theme and what makes it special"
+      placeholder: "A darker variant of Eclipse with blue accents..."
+    validations:
+      required: true

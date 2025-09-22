@@ -35,6 +35,8 @@ themes/
 *.njsproj
 *.sln
 *.sw?
+licence.tt
+
 themes/eclipse-color-theme.json
 themes/eclipse-dawn-color-theme.json
 /themes
