@@ -40,58 +40,58 @@
 
 | Color | Hex | Usage |
 |-------|-----|-------|
-| Black | `#1a1825` | Background, standard black |
-| Red | `#ff7d95` | Errors, deletions |
-| Green | `#8effd9` | Success, additions |
-| Yellow | `#ffa874` | Warnings, changes |
-| Blue | `#8ab2ff` | Links, information |
-| Magenta | `#c5a7ff` | Special elements |
-| Cyan | `#8dd9ff` | Secondary information |
-| White | `#f0f0f7` | Standard text |
+| ![](https://placehold.co/24x24/1a1825/1a1825.png) Black | `#1a1825` | Background, standard black |
+| ![](https://placehold.co/24x24/ff7d95/ff7d95.png) Red | `#ff7d95` | Errors, deletions |
+| ![](https://placehold.co/24x24/8effd9/8effd9.png) Green | `#8effd9` | Success, additions |
+| ![](https://placehold.co/24x24/ffa874/ffa874.png) Yellow | `#ffa874` | Warnings, changes |
+| ![](https://placehold.co/24x24/8ab2ff/8ab2ff.png) Blue | `#8ab2ff` | Links, information |
+| ![](https://placehold.co/24x24/c5a7ff/c5a7ff.png) Magenta | `#c5a7ff` | Special elements |
+| ![](https://placehold.co/24x24/8dd9ff/8dd9ff.png) Cyan | `#8dd9ff` | Secondary information |
+| ![](https://placehold.co/24x24/f0f0f7/f0f0f7.png) White | `#f0f0f7` | Standard text |
 
 ### Bright Colors
 
 | Color | Hex | Usage |
 |-------|-----|-------|
-| Bright Black | `#7d7b95` | Muted text |
-| Bright Red | `#ff95a9` | Light errors |
-| Bright Green | `#a1ffe4` | Light success |
-| Bright Yellow | `#ffb88f` | Light warnings |
-| Bright Blue | `#a5b8ff` | Light information |
-| Bright Magenta | `#d2bfff` | Light special |
-| Bright Cyan | `#a5dfff` | Light secondary |
-| Bright White | `#ffffff` | Intense text |
+| ![](https://placehold.co/24x24/7d7b95/7d7b95.png) Bright Black | `#7d7b95` | Muted text |
+| ![](https://placehold.co/24x24/ff95a9/ff95a9.png) Bright Red | `#ff95a9` | Light errors |
+| ![](https://placehold.co/24x24/a1ffe4/a1ffe4.png) Bright Green | `#a1ffe4` | Light success |
+| ![](https://placehold.co/24x24/ffb88f/ffb88f.png) Bright Yellow | `#ffb88f` | Light warnings |
+| ![](https://placehold.co/24x24/a5b8ff/a5b8ff.png) Bright Blue | `#a5b8ff` | Light information |
+| ![](https://placehold.co/24x24/d2bfff/d2bfff.png) Bright Magenta | `#d2bfff` | Light special |
+| ![](https://placehold.co/24x24/a5dfff/a5dfff.png) Bright Cyan | `#a5dfff` | Light secondary |
+| ![](https://placehold.co/24x24/ffffff/ffffff.png) Bright White | `#ffffff` | Intense text |
 
 ## UI Component Colors
 
 ### Buttons
-- Normal: `#3a3550`
-- Hover: `#4a4560`
-- Text: `#f0f0f7`
+- ![](https://placehold.co/24x24/3a3550/3a3550.png) Normal: `#3a3550`
+- ![](https://placehold.co/24x24/4a4560/4a4560.png) Hover: `#4a4560`
+- ![](https://placehold.co/24x24/f0f0f7/f0f0f7.png) Text: `#f0f0f7`
 
 ### Input Fields
-- Background: `#212030`
-- Border: `#353447`
-- Text: `#f0f0f7`
-- Placeholder: `#7d7b95`
+- ![](https://placehold.co/24x24/212030/212030.png) Background: `#212030`
+- ![](https://placehold.co/24x24/353447/353447.png) Border: `#353447`
+- ![](https://placehold.co/24x24/f0f0f7/f0f0f7.png) Text: `#f0f0f7`
+- ![](https://placehold.co/24x24/7d7b95/7d7b95.png) Placeholder: `#7d7b95`
 
 ### Selection
-- Background: `#3a384a`
-- Inactive: `#2d2b40`
+- ![](https://placehold.co/24x24/3a384a/3a384a.png) Background: `#3a384a`
+- ![](https://placehold.co/24x24/2d2b40/2d2b40.png) Inactive: `#2d2b40`
 
 ## Syntax Highlighting
 
 | Element | Color | Hex |
 |---------|-------|-----|
-| Keywords | Nebula Purple | `#c5a7ff` |
-| Functions | Stellar Blue | `#8ab2ff` |
-| Strings | Lunar Gold | `#e2c792` |
-| Numbers | Solar Flare | `#ffa874` |
-| Types | Quantum Mint | `#8effd9` |
-| Variables | Starlight | `#f0f0f7` |
-| Tags | Nova Red | `#ff7d95` |
-| Attributes | Quantum Mint | `#8effd9` |
-| Comments | Cosmic Dust | `#7d7b95` |
+| ![](https://placehold.co/24x24/c5a7ff/c5a7ff.png) Keywords | Nebula Purple | `#c5a7ff` |
+| ![](https://placehold.co/24x24/8ab2ff/8ab2ff.png) Functions | Stellar Blue | `#8ab2ff` |
+| ![](https://placehold.co/24x24/e2c792/e2c792.png) Strings | Lunar Gold | `#e2c792` |
+| ![](https://placehold.co/24x24/ffa874/ffa874.png) Numbers | Solar Flare | `#ffa874` |
+| ![](https://placehold.co/24x24/8effd9/8effd9.png) Types | Quantum Mint | `#8effd9` |
+| ![](https://placehold.co/24x24/f0f0f7/f0f0f7.png) Variables | Starlight | `#f0f0f7` |
+| ![](https://placehold.co/24x24/ff7d95/ff7d95.png) Tags | Nova Red | `#ff7d95` |
+| ![](https://placehold.co/24x24/8effd9/8effd9.png) Attributes | Quantum Mint | `#8effd9` |
+| ![](https://placehold.co/24x24/7d7b95/7d7b95.png) Comments | Cosmic Dust | `#7d7b95` |
 
 ## Usage Guidelines
 
