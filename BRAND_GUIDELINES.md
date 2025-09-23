@@ -1,5 +1,24 @@
 # Eclipse Theme Brand Guidelines
 
+## Table of Contents
+- [🎨 Color Palette](#-color-palette)
+  - [Core Colors](#core-colors)
+  - [Text & UI](#text--ui)
+  - [Accent Colors](#accent-colors)
+- [Terminal Colors](#terminal-colors)
+  - [Standard Colors](#standard-colors)
+  - [Bright Colors](#bright-colors)
+- [UI Component Colors](#ui-component-colors)
+  - [Buttons](#buttons)
+  - [Input Fields](#input-fields)
+  - [Selection](#selection)
+- [Syntax Highlighting](#syntax-highlighting)
+- [Usage Guidelines](#usage-guidelines)
+- [Accessibility](#accessibility)
+- [Implementation Notes](#implementation-notes)
+
+---
+
 ## 🎨 Color Palette
 
 ### Core Colors
@@ -34,7 +53,8 @@
 | ![](https://placehold.co/24x24/ff7d95/ff7d95.png) | Nova Red | `#ff7d95` | Errors, destructive actions |
 | ![](https://placehold.co/24x24/e2c792/e2c792.png) | Lunar Gold | `#e2c792` | Highlights, special text |
 
-## Terminal Colors
+<details>
+<summary>## Terminal Colors</summary>
 
 ### Standard Colors
 
@@ -62,24 +82,39 @@
 | ![](https://placehold.co/24x24/a5dfff/a5dfff.png) Bright Cyan | `#a5dfff` | Light secondary |
 | ![](https://placehold.co/24x24/ffffff/ffffff.png) Bright White | `#ffffff` | Intense text |
 
-## UI Component Colors
+</details>
+
+<details>
+<summary>## UI Component Colors</summary>
 
 ### Buttons
-- ![](https://placehold.co/24x24/3a3550/3a3550.png) Normal: `#3a3550`
-- ![](https://placehold.co/24x24/4a4560/4a4560.png) Hover: `#4a4560`
-- ![](https://placehold.co/24x24/f0f0f7/f0f0f7.png) Text: `#f0f0f7`
+
+| Element | Color | Hex |
+|---------|-------|-----|
+| ![](https://placehold.co/24x24/3a3550/3a3550.png) Normal | Button Normal | `#3a3550` |
+| ![](https://placehold.co/24x24/4a4560/4a4560.png) Hover | Button Hover | `#4a4560` |
+| ![](https://placehold.co/24x24/f0f0f7/f0f0f7.png) Text | Button Text | `#f0f0f7` |
 
 ### Input Fields
-- ![](https://placehold.co/24x24/212030/212030.png) Background: `#212030`
-- ![](https://placehold.co/24x24/353447/353447.png) Border: `#353447`
-- ![](https://placehold.co/24x24/f0f0f7/f0f0f7.png) Text: `#f0f0f7`
-- ![](https://placehold.co/24x24/7d7b95/7d7b95.png) Placeholder: `#7d7b95`
+
+| Element | Color | Hex |
+|---------|-------|-----|
+| ![](https://placehold.co/24x24/212030/212030.png) Background | Input Background | `#212030` |
+| ![](https://placehold.co/24x24/353447/353447.png) Border | Input Border | `#353447` |
+| ![](https://placehold.co/24x24/f0f0f7/f0f0f7.png) Text | Input Text | `#f0f0f7` |
+| ![](https://placehold.co/24x24/7d7b95/7d7b95.png) Placeholder | Input Placeholder | `#7d7b95` |
 
 ### Selection
-- ![](https://placehold.co/24x24/3a384a/3a384a.png) Background: `#3a384a`
-- ![](https://placehold.co/24x24/2d2b40/2d2b40.png) Inactive: `#2d2b40`
 
-## Syntax Highlighting
+| Element | Color | Hex |
+|---------|-------|-----|
+| ![](https://placehold.co/24x24/3a384a/3a384a.png) Background | Selection Background | `#3a384a` |
+| ![](https://placehold.co/24x24/2d2b40/2d2b40.png) Inactive | Inactive Selection | `#2d2b40` |
+
+</details>
+
+<details>
+<summary>## Syntax Highlighting</summary>
 
 | Element | Color | Hex |
 |---------|-------|-----|
@@ -92,6 +127,8 @@
 | ![](https://placehold.co/24x24/ff7d95/ff7d95.png) Tags | Nova Red | `#ff7d95` |
 | ![](https://placehold.co/24x24/8effd9/8effd9.png) Attributes | Quantum Mint | `#8effd9` |
 | ![](https://placehold.co/24x24/7d7b95/7d7b95.png) Comments | Cosmic Dust | `#7d7b95` |
+
+</details>
 
 ## Usage Guidelines
 
