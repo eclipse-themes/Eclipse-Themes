@@ -115,5 +115,3 @@
 - For syntax highlighting, use the specified colors for each token type
 - Always test the theme in both light and dark environments
 
-## License
-These brand guidelines are part of the Eclipse Theme project and are available under the MIT License.
